@@ -57,3 +57,4 @@ The goal is to apply various classification algorithms to structured medical dat
 http://127.0.0.1:8888/tree
 
 6. In the Jupyter interface, click on main.ipynb and run each cell to execute the project.
+
